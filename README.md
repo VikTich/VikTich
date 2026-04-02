@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikTich
-- 👀 I’m interested in HTML,CSS, JS.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in 1с, BAF,BAS/
+- 🌱 I’m currently learning 1C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
